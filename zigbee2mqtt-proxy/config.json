@@ -1,7 +1,7 @@
 {
-    "name": "Zigbee2MQTT Proxy",
+    "name": "Zigbee2MQTT Proxy_copy",
     "version": "0.2.0",
-    "slug": "zigbee2mqtt_proxy",
+    "slug": "zigbee2mqtt_proxy_copy",
     "description": "Proxy for externally running Zigbee2MQTT",
     "url": "https://github.com/morozov58/hassio-zigbee2mqtt/tree/master/zigbee2mqtt-proxy",
     "arch": [

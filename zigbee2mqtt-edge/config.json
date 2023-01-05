@@ -1,7 +1,7 @@
 {
-  "name": "Zigbee2MQTT Edge",
+  "name": "Zigbee2MQTT Edge copy",
   "version": "edge",
-  "slug": "zigbee2mqtt_edge",
+  "slug": "zigbee2mqtt_edge_",
   "description": "Development build of the Zigbee2MQTT add-on",
   "uart": true,
   "url": "https://github.com/morozov58/hassio-zigbee2mqtt/tree/master/zigbee2mqtt-edge",
